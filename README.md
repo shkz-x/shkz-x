@@ -1,6 +1,6 @@
 ## Bienvenid@ a mi GitHub.
 
-Soy **shkz**. Soy apasionado por el Hacking y la Seguridad Informática desde temprana edad.
+Soy **shkz**. Apasionado por el Hacking y la Seguridad Informática desde temprana edad.
 Cree este espacio para aportar recursos, herramientas y futuros proyectos relacionados a seguridad y hacking 🔒💻. 
 
 ### Temas destacados 🌟
@@ -14,7 +14,7 @@ Cree este espacio para aportar recursos, herramientas y futuros proyectos relaci
 Tus contribuciones son bienvenidas. Si tenes sugerencias, comentarios o deseas colaborar en algo, no dudes en abrir un issue o enviar un pull request.
 
 ### Contacto 📧
-Para cualquier pregunta o consulta, puedes contactarme a través de mi dirección de correo electrónico: shkz.x@protonmail.com
+Para cualquier pregunta o consulta, podes contactarme a mi correo electrónico: shkz.x@protonmail.com
 
 #### Como apoyar ❤️
 - Darme créditos añadiendo un link a este repositorio :D
