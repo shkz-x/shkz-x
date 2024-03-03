@@ -1,4 +1,4 @@
-## Bienvenido a mi GitHub.
+## Bienvenid@ a mi GitHub.
 
 Soy **shkz**. Soy apasionado por el Hacking y la Seguridad Informática desde temprana edad.
 Cree este espacio para aportar recursos, herramientas y futuros proyectos relacionados a seguridad y hacking 🔒💻. 
