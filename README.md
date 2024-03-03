@@ -1,16 +1,24 @@
-## Bienvenido a mi GitHub
+## Bienvenido a mi GitHub.
 
-Espacio para aportar recursos, herramientas y proyectos relacionados a seguridad y hacking 🔒💻. Soy apasionado por el Hacking y la Seguridad Informática desde temprana edad.
+Soy **shkz**. Soy apasionado por el Hacking y la Seguridad Informática desde temprana edad.
+Cree este espacio para aportar recursos, herramientas y futuros proyectos relacionados a seguridad y hacking 🔒💻. 
 
 ### Temas destacados 🌟
-Linux
-Hacking
-Capture The Flag
-Seguridad Informatica
-Reversing Engineering
-Análisis de malware
-Contribuir 🤝
-Tus contribuciones son bienvenidas. Si tienes alguna sugerencia, comentario o deseas colaborar en algo, no dudes en abrir un issue o enviar un pull request.
+- Linux <br>
+- Hacking <br>
+- Capture The Flag <br>
+- Seguridad Informatica<br>
+- Análisis de malware<br>
+
+### Contribuir 🤝
+Tus contribuciones son bienvenidas. Si tenes sugerencias, comentarios o deseas colaborar en algo, no dudes en abrir un issue o enviar un pull request.
 
 ### Contacto 📧
 Para cualquier pregunta o consulta, puedes contactarme a través de mi dirección de correo electrónico: shkz.x@protonmail.com
+
+#### Como apoyar ❤️
+- Darme créditos añadiendo un link a este repositorio :D
+- Dándole una estrella y compartiendo el proyecto 🚀
+<br>
+
+![shkz GitHub stats](https://github-readme-stats.vercel.app/api?username=shkz-x&theme=radical&show_icons=true)
