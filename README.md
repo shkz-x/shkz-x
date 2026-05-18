@@ -1,8 +1,17 @@
-# Hi there!
-I am shkz, a Security Researcher, Red Team and CTF Player ⚑⚑ 
-<br>
+# shkz
 
-This is a space where i will be sharing materials and resources related to CTF, proof of concepts for vulnerabilities, and various other topics in the field of cybersecurity.
+Offensive Security Researcher focused on vulnerability discovery, exploit development, Active Directory security and Red Team operations.
 
-### Contact 📧
-For any questions or inquiries, you can reach me at my email: shkzx@protonmail.com
+This GitHub is used to publish research material, proof of concepts, tooling, lab environments and technical notes related to offensive security.
+
+Technical articles and additional content:
+https://myhack.tech
+
+## Support
+
+If you found any of my research or content useful, you can support my independent work here:
+
+https://ko-fi.com/shk404
+## Contact
+
+[shkzx@protonmail.com](mailto:shkzx@protonmail.com)
